@@ -80,7 +80,7 @@ export default function Hero() {
         className="absolute top-1/2 -translate-y-1/2 w-[480px] z-30 pointer-events-none"
         style={{ left: "50%", marginLeft: "-240px" }}
       />
-
+      
       <div className="absolute inset-0 pointer-events-none z-20">
         <div className="absolute top-[8%] left-[70%] -translate-x-1/2 flex items-center  w-max">
           <div
